@@ -1,2 +1,4 @@
-# DA_Project_2024
-My personal project
+# DA-Project
+ my personal DA project
+ Just Luky practicing his skills in Data analysis
+ Still updating, main.py isn't available....
